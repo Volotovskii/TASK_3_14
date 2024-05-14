@@ -21,8 +21,8 @@ git init
 **Пример:**
 
 ```
-mkdir task_3_13-project
-cd task_3_13
+mkdir task_3_14-project
+cd task_3_14
 git init
 ```
 

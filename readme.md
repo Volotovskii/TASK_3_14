@@ -20,4 +20,14 @@
 
 >[Ветки](/Content/branch.md)
 
+>[Удаленный репозиторий](/Content/delete.md)
+
+>[Исправление ошибок](/Content/correction.md) 
+
+>[Утилиты](/Content/utilities.md)
+
+>[.gitignor](/Content/gitignor.md)
+
+>[Критерии оценки](/Criteria.md)
 ***
+### Спасибо за внимание :flushed:
